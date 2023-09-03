@@ -10,7 +10,7 @@ python f5decode.py 335653056.20480.0000
 
 ### f5decodegui
 > 使用python3 +thinker 编写的GUI解码程序,
-打包好的路径再dist/f5decodegui.exe
+打包好的路径再f5decodegui.zip
 
 #### f5decodegui 程序打包方法
 pip install pyinstaller
