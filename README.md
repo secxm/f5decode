@@ -14,6 +14,7 @@ python f5decode.py 335653056.20480.0000
 
 #### f5decodegui 程序打包方法
 pip install pyinstaller
+
 pyinstaller -F -w  f5decodegui.py
 
 
